@@ -4,3 +4,4 @@
 |---|---|
 | Nina Simone — Little Girl Blue | LP | $32.00 |
 | Radiohead — In Rainbows | LP | $27.00 |
+| Radiohead — Kid A | LP | $29.00 |
