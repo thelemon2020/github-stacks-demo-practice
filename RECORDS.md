@@ -3,3 +3,4 @@
 | Artist — Title | Format | Price |
 |---|---|
 | Nina Simone — Little Girl Blue | LP | $32.00 |
+| John Coltrane — Blue Train | LP | $29.00 |
